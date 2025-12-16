@@ -1,0 +1,61 @@
+[!] Warning: Run as root for full enumeration
+
+=================================
+   LINUX SYSTEM ENUMERATION
+=================================
+
+Hostname: kali
+
+OS Information: "Kali GNU/Linux Rolling"
+
+Kernel Version: 6.12.25-amd64
+
+Logged-in Users: kali seat0 2025-12-15 07:16 (:0)
+
+CPU Information: Model name: 12th Gen Intel(R) Core(TM) i5-12450H
+
+Memory Usage: total used free shared buff/cache available Mem: 1.9Gi 844Mi 752Mi 19Mi 537Mi 1.1Gi Swap: 1.0Gi 0B 1.0Gi
+
+Disk Usage: /dev/sda1 79G 24G 51G 32% /
+
+=================================
+   NETWORK ENUMERATION
+=================================
+
+Network Interfaces & IP Addresses:
+lo               UNKNOWN        127.0.0.1/8 ::1/128 
+eth0             UP             10.0.2.15/24 fd00::a831:e02b:ca72:b87f/64 fe80::341a:df1:919d:cbea/64 
+
+Routing Table:
+default via 10.0.2.2 dev eth0 proto dhcp src 10.0.2.15 metric 100 
+10.0.2.0/24 dev eth0 proto kernel scope link src 10.0.2.15 metric 100 
+
+Open Listening Ports (TCP/UDP):
+
+Running Services:
+UNIT
+accounts-daemon.service
+colord.service
+cron.service
+dbus.service
+getty@tty1.service
+haveged.service
+lightdm.service
+ModemManager.service
+NetworkManager.service
+polkit.service
+rtkit-daemon.service
+systemd-journald.service
+systemd-logind.service
+systemd-udevd.service
+udisks2.service
+upower.service
+user@1000.service
+virtualbox-guest-utils.service
+
+Legend:
+ACTIVE
+SUB
+
+18
+

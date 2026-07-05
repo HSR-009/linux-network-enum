@@ -13,10 +13,14 @@ The tool logs all output to a timestamped file for reporting purposes.
 - Automatic logging to file
 
 ## 🚀 Usage
-```bash
+\`\`\`
 chmod +x enum.sh
 ./enum.sh
+\`\`\`
 
 ## 📸 Screenshots
-Screenshots of the tool execution and generated log file
-are available in the `screenshots/` directory.
+(Yet to upload)
+
+## 🧾 Notes
+This is a mini learning project built to practice Bash scripting and
+Linux enumeration fundamentals.
